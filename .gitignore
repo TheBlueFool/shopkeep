@@ -38,6 +38,13 @@ Temporary Items
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+/.idea/shopkeep.iml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/markdown-navigator/profiles_settings.xml
+/.idea/modules.xml
+/.idea/markdown-navigator.xml
+/.idea/vcs.xml
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
@@ -224,3 +231,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
